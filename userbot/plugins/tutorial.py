@@ -1,4 +1,4 @@
-"""Plugin to get the video tutorial to deploy TeleBot
+"""Plugin to get the video tutorial to deploy FRIDAY
 .tut"""
 
 from userbot.utils import register
