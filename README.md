@@ -4,7 +4,7 @@
 <p align="center">
 <img src="images.jpeg" alt="F.R.I.D.A.Y">
 
-### <a href="https://t.me/FridaySupportOfficial"><img src="https://i.pinimg.com/originals/a2/fe/5f/a2fe5f60ba1e9023327cd83ba35b4f9c.png"</a>
+### [!img](https://govtjobsbharat.in/wp-content/uploads/2019/04/Join-us-on-telegram.gif)](t.me/fuck?)
 
 
 
