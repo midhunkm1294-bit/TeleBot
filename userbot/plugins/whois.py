@@ -46,16 +46,16 @@ async def _(event):
     except Exception as e:
         dc_id = "Need a Profile Picture to check **this**"
         location = str(e)
-    caption = """Extracted Userdata From TeleBot's DATABASE
+    caption = """Extracted Userdata From Friday DATABASE
 ID: <code>{}</code>
 Target's Name: <a href='tg://user?id={}'>{}</a>
 Bio: {}
 DC ID: {}
 Number of PPs: {}
 Restricted? : {}
-Verified gey: {}
-Bot(nub): {}
-Groups in Common with this guy: {}
+Verified : {}
+is it a Bot: {}
+Groups in Common with this Person: {}
 """.format(
         user_id,
         user_id,
