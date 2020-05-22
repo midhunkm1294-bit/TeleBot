@@ -1,7 +1,7 @@
 ##        ━━━━━ F. R. I. D. A. Y  ━━━━━
 
 <p align="center">
-<img src="image.jpg" alt="F.R.I.D.A.Y">
+<img src="images.jpg" alt="F.R.I.D.A.Y">
 
 
 
