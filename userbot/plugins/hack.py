@@ -42,8 +42,9 @@ async def _(event):
             "`Hacking... 36%\n█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 84%\n█████████████████████▒▒▒▒ `",
-            "`Hacking... 100%\n█████████HACKED███████████ `",
-            "`Targeted Account Hacked...\n\nPay 69$ To` @TeleBotHelp `Or send nudes of female Homo Sapiens To Remove This Hack`"
+            "`Hacking... 100%\n████████████████████████ `",
+            "`Hack SucessFull! `",
+            "`Targeted Account Hacked...\n\nPay 69$ To` @FRIDAYSUPPORTOFFICIAL `Or send number of girl friend To Remove This Hack`"
         ]
 
         for i in animation_ttl:
