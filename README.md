@@ -1,7 +1,7 @@
-# FORK AND STAR BEFORE INSTALLING
+##        ━━━━━ F. R. I. D. A. Y  ━━━━━
 [Watch video tutorial on deploying](https://youtu.be/XmvdDHiIDb4)
 # Installing
-Join https://t.me/TeleBotHelp for updates and tuts
+Join https://t.me/FRIDAYSUPPORTOFFICIAL for updates and tuts
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
