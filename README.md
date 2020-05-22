@@ -4,9 +4,6 @@
 <p align="center">
 <img src="images.jpeg" alt="F.R.I.D.A.Y">
 
-<="()](t.me/fridaysupportofficial) 
-
-
 ### <a href="https://t.me/FridaySupportOfficial"><img src=https://i.pinimg.com/originals/a2/fe/5f/a2fe5f60ba1e9023327cd83ba35b4f9c.png"?logo=Telegram"></a>
 
 
