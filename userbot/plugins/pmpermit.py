@@ -11,7 +11,7 @@ PREV_REPLY_MESSAGE = {}
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**HEY! I AM FRIDAY ALL THE NEW TG ASSISTANT ! JOIN HERE FOR PRO USER BOT** @FRIDAYSUPPORTOFFICIAL"
-USER_BOT_WARN_ZERO = "`You were spamming my master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` **Now GTFO, i'm playing minecraft** "
+USER_BOT_WARN_ZERO = "`You were spamming my master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` **Now Get The Fuck Out, i'm Doing Something That I can't Tell You bloody Gay** "
 USER_BOT_NO_WARN = ("[...........███ ]▄▄▄▄▄▃ \n..▂▄▅█████▅▄▃▂\n[███████████████]\n◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤](tg://user?id=813878981)\n\n"
                     "`Hello, this is FRIDAY USERBOT Service. This is an automated message in `"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
