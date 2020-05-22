@@ -1,4 +1,10 @@
 ##        ━━━━━ F. R. I. D. A. Y  ━━━━━
+
+<p align="center">
+<img src="image.jpg" alt="F.R.I.D.A.Y">
+
+
+
 [Watch video tutorial on deploying](https://youtu.be/XmvdDHiIDb4)
 # Installing
 Join https://t.me/FRIDAYSUPPORTOFFICIAL for updates and tuts
