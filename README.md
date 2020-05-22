@@ -1,4 +1,5 @@
-##        ━━━━━ F. R. I. D. A. Y  ━━━━━
+##    <p align="center">
+    ━━━━━ F. R. I. D. A. Y  ━━━━━
 
 <p align="center">
 <img src="images.jpeg" alt="F.R.I.D.A.Y">
