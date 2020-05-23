@@ -15,9 +15,7 @@ FOR ANY SUPPORT OR HELP PLEASE JOIN HERE 👇👇👇
 
 <p align="centre">
 
-<a href="https://t.me/FRIDAYSUPPORTOFFICIAL"><img src="<a href="https://t.me/FRIDAYSUPPORTOFFICIAL"><img src="https://telegra.ph/file/e9af8aa5c368166c6407b.jpg?logo=Telegram"></a>
-?logo=Telegram"></a>
-
+<a href="https://t.me/loda"><img src="https://s3.amazonaws.com/Summitsoft/website/blog/how-to/general-assets/how-tos-logo.png?logo=YouTube"></a>
 
 
 
