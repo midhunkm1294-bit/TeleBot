@@ -4,7 +4,7 @@
 <p align="center">
 <img src="images.jpeg" alt="F.R.I.D.A.Y">
   
-##SUPPORT
+## SUPPORT
 
 FOR ANY SUPPORT OR HELP PLEASE JOIN HERE 👇👇👇
 
