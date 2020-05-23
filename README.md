@@ -20,7 +20,7 @@ FOR ANY SUPPORT OR HELP PLEASE JOIN HERE 👇👇👇
 
 
 # Installing
-Join https://t.me/FRIDAYSUPPORTOFFICIAL for updates and tuts
+
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
