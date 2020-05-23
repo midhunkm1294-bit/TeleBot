@@ -11,11 +11,16 @@ FOR ANY SUPPORT OR HELP PLEASE JOIN HERE 👇👇👇
 <p align="center">
 <a href="https://t.me/FRIDAYSUPPORTOFFICIAL"><img src="https://telegra.ph/file/e9af8aa5c368166c6407b.jpg?logo=Telegram"></a>
 
+## HOW TO DEPLOY 
+
+<p align="centre">
+
+<a href="https://t.me/FRIDAYSUPPORTOFFICIAL"><img src="<a href="https://t.me/FRIDAYSUPPORTOFFICIAL"><img src="https://telegra.ph/file/e9af8aa5c368166c6407b.jpg?logo=Telegram"></a>
+?logo=Telegram"></a>
 
 
 
 
-[Watch video tutorial on deploying](https://youtu.be/XmvdDHiIDb4)
 # Installing
 Join https://t.me/FRIDAYSUPPORTOFFICIAL for updates and tuts
 ### The Easy Way
